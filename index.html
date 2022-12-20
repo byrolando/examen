@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="Autor" content="Rolando Atapoma Ramos">
+    <meta name="description" content="SimGrar agencia de diseño digital, editores y gestores, disponibles siempre para un nuevo cliente">
+    <title>SimGrar </title>
+
+    <script>
+        window.alert('Bienvenido a mi SimGrar \n Siempre disponibles ');
+    </script>
+
+<style>
+    body{background-color: rgb(8, 18, 51);}
+*{margin: 0; margin: 0;box-sizing: border-box;}
+/* barra de navegacion */
+#navegador{width:100%;height: 50px;position: fixed;display: flex;margin-top: -40px;background-color: rgb(3, 3, 36);}
+
+#navegador .contenedor1 , .contenedor2{height: 50px;}
+#navegador .contenedor1{width: 30%;}
+.logo{margin: 0 auto; width: 70%;height: 50px;text-align: center;}
+.logo a img{width: 280px;height: 50px;}
+
+.contenedor2{width: 70%;display: flex;}
+.contenido{width: 60%; height: 50px;display: flex;margin: 0px auto;margin-right: -20px;}
+
+.contenido div{width: 100%;height: 40px;color: rgb(255, 255, 255);font-size: 23px;padding-top: 10px;text-align: center;}
+.contenido div a{width: 100%;height: 40px;color: rgb(255, 255, 255);font-size: 23px;padding-top: 10px;text-align: center; text-decoration: none;}
+.contenido div a:hover{color: rgb(85, 91, 184);}
+.contenido div:hover{color: rgb(85, 91, 184);}
+.suscribirse{width: 200px; height: 40px;border:1px solid rgb(47, 55, 202);margin: auto auto;border-radius: 15px;text-align: center;}
+.suscribirse div{margin: 5px auto;font-size: 25px;color: rgb(52, 52, 190);}
+.suscribirse div:hover{color: white;}
+
+/* banner */
+#banner{width: 100%; height: 350px;margin: 10px auto;margin-top: 40px;background-color: cornflowerblue;}
+#banner{background-image: url(img/slider01.png);background-repeat: no-repeat;background-size: cover;}
+
+/* contenido principal */
+article{width: 80%; height: 1300px;margin: 80px auto;margin-top: 50px;background-color: rgba(99, 140, 235, 0);}
+article iframe{width: 100%;height: 100%;}
+
+/* footer */
+footer{width: 100%; height: 100px;background-color: rgb(3, 3, 36);display: flex}
+footer .contenedor1{height: 100px;width: 70%;}
+.contenedor1 .contenido1{width: 75%; height: 60px;margin: 20px auto;display: flex;text-align: center;}
+.contenedor1 .contenido1 div{height: 40px;width: 170px;margin: auto auto;color: rgb(33, 48, 156);font-size: 18px;}
+.contenedor1 .contenido1 .texto{padding-top: 20px;}
+.contenedor1 .contenido1 div img{width: 150px; height: 30px;margin-top: 5px;}
+
+footer .contenedor2{height: 100px;width: 30%;}
+footer .contenedor2 .contenido2{height: 60px; width: 85%;margin: auto auto; display: flex;}
+footer .contenedor2 .contenido2 div{height: 50px;width: 50px;margin: auto auto;}
+footer .contenedor2 .contenido2 div a img{width: 50px; height: 50px;}
+
+/* barra */
+#menu ul{list-style: none;margin:0px;padding:0px;margin-top: -5px;}
+#menu #item{float: left;}
+#menu #item a{background-color: rgb(3, 3, 36);color:white;padding:5px 30px;font-size: 23px;display: block;text-decoration: none;text-align: center;}
+#menu #desple{display: none;position: absolute;width:120px}
+#menu #item a:hover{color:rgb(76, 76, 195);background-color: rgb(10, 10, 67);}
+#menu #item:hover #desple{display: block;}
+
+</style>
+
+</head>
+<body>
+    <nav id="navegador">
+        <div class="contenedor1">
+            <div class="logo">
+                <a href="01.html" target="aqui">
+                    <img src="img/logo.png" alt="LOGO">
+                </a>
+            </div>
+        </div>
+
+        <div class="contenedor2">
+            <div class="contenido">
+                <div id="menu">
+                    <ul>
+                        <li id="item"><a href="01.html" target="aqui">Servicios</a>
+                            <ul id="desple">
+                                <li><a href="02.html" target="aqui">Edicion</a></li>
+                                <li><a href="03.html" target="aqui">Creacion</a></li>
+                                <li><a href="04.html" target="aqui">Stock</a></li>
+
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div><a href="https://100porcientorealnofake.on.drv.tw/www.inicio.com/pagina_alfa.html" target="aqui">Portafolio</a></div>
+                <div><a href="Dudas.html" target="aqui">Dudas</a></div>
+                <div><a href="https://web.whatsapp.com/send?phone=923786089&text=Hola,tengo una consulta." target="_blanc" class="what_web">Contatanos</a></div>
+            </div>
+            <div class="suscribirse"><div>Suscribirse</div></div>
+        </div>
+
+    </nav>
+    <div id="banner">
+        
+    </div>
+
+    <article>
+        <iframe src="01.html" frameborder="0" name="aqui"></iframe>
+    </article>
+
+    <footer>
+        <div class="contenedor1">
+            <div class="contenido1">
+                <div><a href="01.html" target="aqui"><img src="img/logo.png" alt=""></a></div>
+                <div class="texto">2020-2022 SimGrar</div>
+                <div class="texto">Legal</div>
+                <div class="texto">Politica de privacidad</div>
+            </div>
+        </div>
+        <div class="contenedor2"> 
+            <div class="contenido2">
+                <div><a href="https://www.facebook.com/simgrar.innovation"><img src="img/facebook.png" alt=""></a></div>
+                <div><a href=""><img src="img/youtube.png" alt=""></a></div>
+                <div><a href="https://twitter.com/by_Roland_O"><img src="img/twitter.png" alt=""></a></div>
+                <div><a href="https://web.whatsapp.com/send?phone=923786089&text=Hola,tengo una consulta." target="_blanc" class="what_web"><img src="img/whatsapp.png" alt=""></a></div>
+                <div><a href="https://es.fiverr.com/by_roland_0?up_rollout=true"><img src="img/fiverr.png" alt=""></a></div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
