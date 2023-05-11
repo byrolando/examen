@@ -1,0 +1,763 @@
+
+
+
+*******************************1
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************2
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************3
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************4
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************5
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************6
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************7
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************8
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************9
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************10
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************11
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************12
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************13
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************14
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************15
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************16
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************17
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************18
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************19
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************20
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************21
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************22
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************23
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************24
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************25
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************26
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************27
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************28
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************29
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************30
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************31
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************32
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************33
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************34
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************35
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************36
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************37
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************38
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************39
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
+*******************************40
+
+
+ConnsID:
+N° ANI:
+N° NAC:
+N° REFERENCIA:
+MOTIVO:
+ESTADO:
+PLAN:
+HERRAMIENTAS:
+RESULTADO:
+ORDEN:
+CASO:
+FECHA PARCIAL:
+FECHA TOTAL:
+
+
+
